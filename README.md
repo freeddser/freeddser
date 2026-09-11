@@ -99,14 +99,6 @@
   <img src="https://img.shields.io/badge/AI%20Adoption-Active-36BCF7?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile?username=freeddser&theme=tokyonight" alt="Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/repos-per-language?username=freeddser&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/commits-per-month?username=freeddser&theme=tokyonight" alt="Commits per Month" />
-</p>
-
 ---
 
 ### 📫 Connect
@@ -117,7 +109,7 @@
   <a href="https://www.linkedin.com/in/gavinli001/"><img src="https://img.shields.io/badge/LinkedIn-Gavin%20Li-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Company-Qingdao%20Anhecloud%20Network%20Technology-1E5128?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Company-Qingdao%20Anheyun%20Network%20Technology-1E5128?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
@@ -211,14 +203,6 @@
   <img src="https://img.shields.io/badge/K8s-熟练-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/%E5%AE%89%E5%85%A8-%E9%AB%98%E7%BA%A7-9B59B6?style=flat-square&logo=protonmail&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%E8%90%BD%E5%9C%B0-%E6%B4%BB%E8%B7%83-36BCF7?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile?username=freeddser&theme=tokyonight" alt="Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/repos-per-language?username=freeddser&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/commits-per-month?username=freeddser&theme=tokyonight" alt="Commits per Month" />
 </p>
 
 ---
