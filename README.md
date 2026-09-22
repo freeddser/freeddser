@@ -147,12 +147,9 @@
 ### 📫 Connect
 
 <p>
-  <a href="mailto:gavin@01.work"><img src="https://img.shields.io/badge/Email-gavin@01.work-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:freeddser@gmail.com"><img src="https://img.shields.io/badge/Email-freeddser@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/freeddser"><img src="https://img.shields.io/badge/GitHub-freeddser-181717?style=flat-square&logo=github" /></a>
   <a href="https://www.linkedin.com/in/gavinli001/"><img src="https://img.shields.io/badge/LinkedIn-Gavin%20Li-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Company-Qingdao%20Anheyun%20Network%20Technology-1E5128?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
@@ -296,12 +293,9 @@
 ### 📫 联系方式
 
 <p>
-  <a href="mailto:gavin@01.work"><img src="https://img.shields.io/badge/Email-gavin@01.work-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:freeddser@gmail.com"><img src="https://img.shields.io/badge/Email-freeddser@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/freeddser"><img src="https://img.shields.io/badge/GitHub-freeddser-181717?style=flat-square&logo=github" /></a>
   <a href="https://www.linkedin.com/in/gavinli001/"><img src="https://img.shields.io/badge/LinkedIn-Gavin%20Li-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Company-%E9%9D%92%E5%B2%9B%E5%AE%89%E5%90%88%E4%BA%91%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-1E5128?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
